@@ -111,7 +111,7 @@ For a more comprehensive solution to the problem, a mathematical model of the Ex
 
 **Mathematical Model**
 
-This problem can be formulated as linear programming model with the objective of minimizing the total transportation cost because it follows a similar structure to the previous project. A linear equation can be constructed from the minimization objective with decision variables, an objective function, constraints which can be written as linear inequalities or equations (‘Superprof’,2019). This is shown below.
+This problem can be formulated as linear programming model with the objective of minimising the total transportation cost because it follows a similar structure to the previous project. A linear equation can be constructed from the minimisation objective with decision variables, an objective function, constraints which can be written as linear inequalities or equations (‘Superprof’,2019). This is shown below.
 
 Decision Variables
 
@@ -128,7 +128,7 @@ This can be used to produce the following objective function.
 
 Objective Function
 
-Minimize C = 10X1 + 12X2 + 4X3 + 2X4 + 7X5 + 14X6 + 20X7 + 9X8 + 16X9 + 11X10 + 20X11 + 18X12
+Minimise C = 10X1 + 12X2 + 4X3 + 2X4 + 7X5 + 14X6 + 20X7 + 9X8 + 16X9 + 11X10 + 20X11 + 18X12
 
 Subject to,
 
@@ -170,5 +170,5 @@ The LP model has produced the result with the lowest total cost. The least-cost 
 **Recommendations**
 
 •	The $4000 difference between the heuristic approaches (least-cost and Vogel’s) isn’t significant and should therefore be used when a quick and easy result is needed.
-•	Although, the minimization of transportation cost is a crucial goal for the Exeter Transport Company, measures taken to be more sustainable, ensure delivery time goals are met and balancing customer satisfaction are other critical goals which mustn’t be ignored, especially with increased need for businesses to be more sustainable.
-•	It is also important to not disregard other processes such as northwest corner method because transportation costs tend to fluctuate and can often be volatile. Therefore, having many angles of looking at an issue is always useful. It can therefore be recommended that although an LP approach should be prioritized, resources should also be spent in finding a BFS using each of the above methods.
+•	Although, the minimisation of transportation cost is a crucial goal for the Exeter Transport Company, measures taken to be more sustainable, ensure delivery time goals are met and balancing customer satisfaction are other critical goals which mustn’t be ignored, especially with increased need for businesses to be more sustainable.
+•	It is also important to not disregard other processes such as northwest corner method because transportation costs tend to fluctuate and can often be volatile. Therefore, having many angles of looking at an issue is always useful. It can therefore be recommended that although an LP approach should be prioritised, resources should also be spent in finding a BFS using each of the above methods.
